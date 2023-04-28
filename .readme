@@ -1,0 +1,18 @@
+1.
+install node js
+
+https://nodejs.org/en
+
+
+2.
+run
+
+npm install
+
+3.
+run
+
+npm start
+
+4.
+hit url http://localhost:3000/price
